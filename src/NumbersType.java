@@ -1,4 +1,4 @@
-public enum NumbersType {
+enum NumbersType {
     ARABIC,
     ROMAN
 }
